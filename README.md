@@ -1,7 +1,4 @@
-## Record some algorithm problems solved
-
-* <"Practice makes perfect">
-* <"Talk is cheap, show me the code.">
+## Record the daily study and life.
 
 
 > @xuhuigeren  
