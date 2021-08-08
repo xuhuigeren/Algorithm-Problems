@@ -8,5 +8,7 @@ $ pwd
 $ ls  
 mddir.js  
 $ node mddir "../../../"  
-// Exports 'directoryList.md' in mddir/src folder  
+// Exports 'directoryList.md' in mddir/src folder
+
+  
 
